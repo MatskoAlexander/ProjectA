@@ -1,7 +1,7 @@
-from turtle import *
 # Frame
-
-# begin write Text
+"""samplechanges"""
+# Text
+# begin writing TEXT
 
 # Picture
 
