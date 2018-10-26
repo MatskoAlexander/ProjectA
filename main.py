@@ -1,7 +1,7 @@
 from turtle import *
 # Frame
 
-# Text
+# begin write Text
 
 # Picture
 
